@@ -1,0 +1,37 @@
+body{
+    background-image: url('image_fond.jpg');
+    z-index: -2;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.Titre{
+    text-shadow:0 0 2px #00FFFC,0 0 30px #00FFFC,0px 0px 5px #00FFFC, 0 0 150px #00FFFC;color:#00FFFC;
+    text-align: center;    
+}
+
+.logoButton{
+    background: transparent;
+    z-index: +1;
+    top:10px ;
+    left:10px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+    border-radius: 20%;
+    position:absolute;
+  }
+  .image{
+      top: 10px;
+      left:10px;
+      width: 50px;
+      height: 50px;
+      background-image: url('logo2.png');
+      background-repeat: no-repeat;
+      background-position: left bottom ;
+      position:absolute;
+  }
+.audio1{
+    
+}
