@@ -1,2 +1,21 @@
-- CATALOGUE D'ARTISTES
-- 
+IMPORTANT : 
+
+- Fave icon (Matteo)
+- Encrage pour remonter en haut (Ryan)
+- Menu déroulant (Ryan)
+- Formulaire (Matteo ou Claire)
+- Changement de style (javascript) (Tout le monde)
+- Adapter le site pour les appareils (Tout le monde)
+- arranger l'architechture des repertoires (Matteo)
+- Prog soignée (tab etc) (Claire)
+- Validation W3C
+- Github
+- Hebergement
+
+
+CONTENU DU SITE : 
+
+- Catalogue d'artistes
+- Actualités
+- Multimedia 
+- Liens vers autres sites
